@@ -21,6 +21,11 @@
 
 ![Image](https://github.com/user-attachments/assets/2838fa83-928d-400d-9391-b01b6f00ce9c)
 
+Email of API Key
+
+![Image](https://github.com/user-attachments/assets/c0a3b3af-0ed4-4891-bf10-dad51638f279)
+
+
 # Libraries
 
 ![Image](https://github.com/user-attachments/assets/133be5bf-7191-43a6-aa80-6a6a29069b95)
